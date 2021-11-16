@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on Developer Javascript | Node
 - 🌱 I’m currently learning Advance Node, Jest(test automatic) and Typescript
-- 😄 Pronouns: ele/dele
 - ⚡ Fun fact: I love read manga, watch anime and tv shows
 <br>
 

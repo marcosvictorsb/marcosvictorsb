@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Developer Javascript | Node
-- 🌱 I’m currently learning Advance Node, Jest(test automatic) and Typescript
+- 🔭 I’m currently working on Developer Javascript | Node | Jest(test automatic) and Typescript
+- 🌱 I’m currently learning Data Science, python and staticts 
 - ⚡ Fun fact: I love read manga, watch anime and tv shows
 <br>
 
